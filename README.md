@@ -7,3 +7,5 @@
 ### How it works
 Use the search bar to search for developers by name. Click 'more' to view developer profile details.
 
+### Contributors
+Coded by Stephanie Aurelio as part of the React Front to Back course by Brad Traversy.
